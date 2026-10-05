@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "kGeigie-rescue") (type "Legacy") (uri "${KIPRJMOD}/adafruit_samd21-rescue.lib") (options "") (descr ""))
+)
